@@ -15,3 +15,4 @@ void input()
 			break;
 		else
 			cout << "\nArray should have minimum 1 and maxium 20 elements.\n\n";
+	}
